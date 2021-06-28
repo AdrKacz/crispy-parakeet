@@ -1,0 +1,38 @@
+digraph {
+  label="structure of living abstractions"
+  rankdir=LR;
+
+  // primary system
+  subgraph {
+    edge [color="gold"];
+    "outside" -> "direct memory" -> "decision system";
+    "direct memory":e -> "direct memory":w;
+    "decision system" -> "system 1";
+    "decision system" -> "system 2";
+    "decision system" -> "[...]";
+    "decision system" -> "system n";
+  }
+
+
+  // intelligent system
+  subgraph {
+    edge [color="coral"];
+    "decision system" -> "memory system";
+    "memory system" -> "general memory" -> "direct memory" [constraint=false];
+  }
+
+  // reflect system
+  subgraph {
+    edge [color="darkred"];
+    "decision system":se -> "direct memory":sw;
+  }
+
+
+  // caption
+  subgraph cluster_caption{
+    label="";
+    "primary system" -> "primary system" [color="gold"];
+    "intelligent system" -> "intelligent system" [color="coral"];
+    "reflect system" -> "reflect system" [color="darkred"];
+  }
+}
