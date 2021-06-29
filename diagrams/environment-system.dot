@@ -1,0 +1,10 @@
+/*
+dot -Tsvg diagrams/environment-system.dot > diagrams-output/environment-system.svg
+*/
+digraph {
+  label="environment system"
+  rankdir=LR;
+
+  "outside" -> "structure of living abstractions" -> "exterior interface";
+  "exterior interface" -> "outside" [constraint=false];
+}

@@ -1,0 +1,37 @@
+/*
+dot -Tsvg diagrams/primary-system.dot > diagrams-output/primary-system.svg
+*/
+digraph {
+  label=""
+  rankdir=LR;
+
+  subgraph cluster_inner {
+    label="primary system";
+    "direct memory";
+    "direct memory";
+    "decision system";
+    "system 1";
+    "system 2";
+    "[...]";
+    "system n";
+  }
+
+  // primary system
+  subgraph {
+    edge [color="gold"];
+    "outside" -> "direct memory" -> "decision system";
+    "direct memory":e -> "direct memory":w;
+    "decision system" -> "system 1";
+    "decision system" -> "system 2";
+    "decision system" -> "[...]";
+    "decision system" -> "system n";
+  }
+
+  // Exterior interface
+  subgraph {
+    "system 1" -> "exterior interface";
+    "system 2" -> "exterior interface";
+    "[...]" -> "exterior interface";
+    "system n" -> "exterior interface";
+  }
+}

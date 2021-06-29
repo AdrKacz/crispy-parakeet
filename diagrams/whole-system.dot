@@ -1,6 +1,22 @@
+/*
+dot -Tsvg diagrams/whole-system.dot > diagrams-output/whole-system.svg
+*/
 digraph {
-  label="structure of living abstractions"
+  label="whole system"
   rankdir=LR;
+
+  subgraph cluster_inner {
+    label="structure of living abstractions"
+    "direct memory";
+    "direct memory";
+    "decision system";
+    "system 1";
+    "system 2";
+    "[...]";
+    "system n";
+    "memory system";
+    "general memory";
+  }
 
   // primary system
   subgraph {
@@ -11,6 +27,14 @@ digraph {
     "decision system" -> "system 2";
     "decision system" -> "[...]";
     "decision system" -> "system n";
+  }
+
+  // Exterior interface
+  subgraph {
+    "system 1" -> "exterior interface";
+    "system 2" -> "exterior interface";
+    "[...]" -> "exterior interface";
+    "system n" -> "exterior interface";
   }
 
 
@@ -27,10 +51,13 @@ digraph {
     "decision system":se -> "direct memory":sw;
   }
 
+  "exterior interface" -> "outside" [constraint=false];
+
 
   // caption
   subgraph cluster_caption{
-    label="";
+    label="Caption";
+    style="dashed";
     "primary system" -> "primary system" [color="gold"];
     "intelligent system" -> "intelligent system" [color="coral"];
     "reflect system" -> "reflect system" [color="darkred"];
