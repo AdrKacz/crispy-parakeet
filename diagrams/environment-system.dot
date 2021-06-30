@@ -5,6 +5,6 @@ digraph {
   label="environment system"
   rankdir=LR;
 
-  "outside" -> "structure of living abstractions" -> "exterior interface";
-  "exterior interface" -> "outside" [constraint=false];
+  "outside interfaces" -> "structure of living abstractions" -> "outside";
+  "outside" -> "outside interfaces" [constraint=false];
 }

@@ -1,14 +1,16 @@
 /*
-dot -Tsvg diagrams/whole-system.dot > diagrams-output/whole-system.svg
+dot -Tsvg diagrams/reflection-system.dot > diagrams-output/reflection-system.svg
 */
 digraph {
   label="whole system"
   rankdir=LR;
+  node [style="dashed"];
+  edge [style="dashed"];
 
   subgraph cluster_inner {
-    label="structure of living abstractions"
-    "direct memory";
-    "decision system";
+    label="reflection system"
+    "direct memory" [color="blue", style=""];
+    "decision system" [color="blue", style=""];
     "system 1";
     "system 2";
     "[...]";
@@ -19,8 +21,7 @@ digraph {
 
   // primary system
   subgraph {
-    edge [color="red"];
-    "direct memory" -> "decision system";
+    "direct memory" -> "decision system" [color="blue", style=""];
     "direct memory":e -> "direct memory":w;
     "decision system" -> "system 1";
     "decision system" -> "system 2";
@@ -30,7 +31,7 @@ digraph {
 
   // outside
   subgraph {
-    "outside interfaces" -> "direct memory";
+  "outside interfaces" -> "direct memory";
     "system 1" -> "outside";
     "system 2" -> "outside";
     "[...]" -> "outside";
@@ -40,26 +41,15 @@ digraph {
 
   // intelligent system
   subgraph {
-    edge [color="green"];
     "decision system" -> "memory system";
     "memory system" -> "general memory" -> "direct memory" [constraint=false];
   }
 
-  // reflection system
+  // reflect system
   subgraph {
-    edge [color="blue"];
+    edge [color="blue", style=""];
     "decision system":se -> "direct memory":sw;
   }
 
   "outside" -> "outside interfaces" [constraint=false];
-
-
-  // caption
-  subgraph cluster_caption{
-    label="caption";
-    style="dashed";
-    "primary system" -> "primary system" [color="red"];
-    "intelligent system" -> "intelligent system" [color="green"];
-    "reflection system" -> "reflection system" [color="blue"];
-  }
 }
