@@ -81,38 +81,38 @@ However, you shall keep in mind that without **Environment system**, nothing exi
 
 ## Intelligent system
 
-Intelligent system introduces the ability to process information from the past. It introduces Memory system and General memory.
+The **Intelligent system** introduces the ability to process information from the past. It introduces the **Memory system** and the **General memory**.
 
-Be cautious, you shall not confuse the job of Intelligent system and the job of Direct memory. Direct memory can process information from a close past with continuity, while Intelligent system adds a discontinuity to the process of past information.
+The **Intelligent system** and the job of the **Direct memory** shall not be confused. **Direct memory** can process information from a recent past with continuity, while the **Intelligent system** provides information with discontinuity.
 
-Intelligent system brings the loop of intelligence.
+The **Intelligent system** brings the loop of intelligence.
 
 ![intelligent system](diagrams-output/intelligent-system.svg)
 
 ### Memory system
 
-Memory system is another System-i. Memory system is defined on its own because it is part of its own loop.
+The **Memory system** is another **System-i**. The **Memory system** is defined on its own because it is part of its loop.
 
-Memory system process the choice sent by Decision system and send the result to General memory.
+The **Memory system** process the choice sent by the **Decision system** and send the result to **General memory**.
 
 *You notice that each System-i's part of a loop. However, the loop most System-i's are in is the one of the Environment System. Here the difference is that the loop doesn't leave the living being abstraction.*  
 
-*In a real life application, Memory system and General memory can be deeply link together. Indeed, General memory is the environment of Memory system, thus Memory system shall have specific method to interact with General memory. However, I don't look for a physical implementation of the concept. If you are looking to it, you could conclude that your application need a similar implementation for Memory system and General memory. That won't contradict the concept explained.*
+*In a real-life application, the Memory system and the General memory can have similar implementation. Indeed, General memory is the environment of the Memory system. Thus, the Memory system shall have a specific method to interact with the General memory. However, I don't look for a physical implementation of the concept. If you are looking at it, you could conclude that your application needs a similar implementation for the Memory system and the General memory. That won't contradict the concept explained.*
 
 ### General memory
 
-General memory act as a general storage. It store information based on what it received from Memory system. General memory then send information to Direct memory. The information sent depends on the information received.
+**General memory** act as a general store. It stores information based on what it received from the **Memory system**. The **General memory** then sends information to the Direct memory. The **General memory** sends information depending on the information it receives.
 
-Direct memory will receive the information from General memory as any other Outside interfaces. This is important, there is no distinction between how a sense is processed and how the memory is processed. That doesn't mean that Direct memory cannot give more importance to information from General memory.
+**Direct memory** will receive the information from **General memory** as any other **Outside interface**. There is no distinction between how a sense is processed and how the memory is processed. That doesn't mean that **Direct memory** cannot give more importance to information from **General memory**.
 
-*I don't answer how the information is processed inside General memory. This is a practical issue that as to be solve for every specific cases. Moreover, technology will evolve, thus if I give an answer it will soon or later become wrong. Keep in mind that those are just concepts and do not handle any practical implementation. You could use a Neural Network, a File System, or Chemical Compounds, as long as the concepts are respected.*
+*I don't answer how the information is processed inside General memory. This is a practical issue that has to be solved for every specific case. Moreover, technology will evolve, thus if I give an answer it will soon or later become wrong. Keep in mind that those are just concepts and do not handle any practical implementation. You could use a Neural Network, a File System, or Chemical Compounds, as long as the concepts are respected.*
 
 ## Reflection system
 
-Reflection system is the most advanced system. Thanks to it, living beings imagine they have interacted with the world. This is a complex behaviour and lead to abstract imagination. In coordination with Intelligent system, this provides deep knowledges as Mathematics, Physics or Philosophy.
+The **Reflection system** is the most advanced system. Thanks to it, living beings imagine they have interacted with the world. This complex behaviour leads to abstract imagination. In coordination with **Intelligent systems**, this provides deep knowledge as Mathematics, Physics or Philosophy.
 
-However, Reflection system only adds one link and no component. It loops Decision system to Direct memory. Thus, choices are now perceived as a sensation.
+However, the **Reflection system** only adds one link and no component. It loops the **Decision system** to **Direct memory**. Thus, choices are now perceived as a sensation.
 
-With a close look, you will see that this loop mimic the loop of the Environment system but cut the action of the System-i's.
+With a close look, you will see that this loop mimic the loop of the **Environment system** but cut the action of the **System-i's**.
 
 ![reflection system](diagrams-output/reflection-system.svg)
