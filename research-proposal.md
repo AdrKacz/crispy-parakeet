@@ -18,6 +18,10 @@ First, the fact that life is finite isn't necessary, it is an observation and co
 
 Second, it is necessary to state that something is alive when it is independent from observation. By independent from observation, I don't mean that the living body cannot be helped by other living bodies of not living substances, indeed a lot of living beings live in symbiosis. By independent from observation, I mean that if the living beings exists when you observe it, the living beings will still exists when you'll stop observing it. **Notion of independence to define more accurately**.
 
+### Independence of life
+
+Most of the time, you create an algorithm to solve an issue. Thus, your algorithm is use in this precise context and paused or shut down when the issue is solved. The issue can be simple as moving as object along a line or complex as weather forecasting.
+
 **NOTE: More detailed discussion about what is life**.
 
 **NOTE: What about reproduction ? The interactive interface should populate the world it is living on if it survives and have enough ressources**.
@@ -40,6 +44,11 @@ This raise an important dilemma, are you intelligent if you are performant enoug
 **What is intelligent and what is not mainly depends on your referential.**
 
 **NOTE: Deep link between life and intelligence (distinction between intelligence and performance describe before)**
+
+### Question to answer
+
+* Are you alive if others -people, animals- think you are alive?
+* Are you intelligent if you are performant enough?
 
 ## Research Plan
 
