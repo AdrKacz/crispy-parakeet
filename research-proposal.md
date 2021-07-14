@@ -1,6 +1,15 @@
 # Research proposal - The Loops of the Mind
 
-## Ideas for a title
+## Ideas of titles
+
+*objective, definition of conscious algorithm, simulation/physics, why, application, where/measure*
+
+1. Implementation of a conscious algorithm using the three Loops of the Mind.
+
+2. Construction of a living mechanism based on the primary Loop of the Mind and its application to implement a conscious algorithm using the three Loops of the Mind.
+
+
+## Old ideas of titles
 
 * Understanding and Creating Life.
 
@@ -8,52 +17,82 @@
 
 * A conscious algorithm using an interconnected cycle of learning.
 
-* Implementation of a conscious algorithm using the three Loops of the Mind.
-
-* Construction of a living mechanism based on the primary Loop of the Mind and its application to implement a conscious algorithm using the three Loops of the Mind.
-
 * Definition of the three Loops of the Mind, construction of a living mechanism based on the primary Loop of the Mind and construction of a living mechanism based on the primary and intelligent Loops of the Mind, and implementation of a conscious algorithm based on the three Loops of the Minds using the learning from the two first construction.
 
-* **Definition of the three Loops of the Mind, definition of their minimal implementation and application of their minimal implementation: construction of a simple living mechanism based on the first Loop of the Mind, construction of an intelligent living mechanism based on the two first Loops of the Mind, construction of a conscious living mechanism based on the three Loops of the Mind.**
-
+* Definition of the three Loops of the Mind, definition of their minimal implementation and application of their minimal implementation: construction of a simple living mechanism based on the first Loop of the Mind, construction of an intelligent living mechanism based on the two first Loops of the Mind, construction of a conscious living mechanism based on the three Loops of the Mind.
 
 ## Research Plan
-1. Definition of the three Loops of the Mind and their implication.
+1. Define the three Loops of the Mind and their implication.
 
- * Definition of algorithms that describe how each loop works.
+ 1. Define algorithms that describe how each loop works.
 
- * Definition of an algorithm that describes how each loop interacts with the others.
- * What results from experiences in Neurology and Biology supports the Loops of the Mind model?
+ 2. Define an algorithm that describes how each loop interacts with the others.
 
-2. Definition of the minimum application of the Loops of the Mind model.
+ 3. What results from experiences in Neurology and Biology supports the Loops of the Mind model?
 
-  * What is the easier way to implement the Loops of the Mind model? For example, the Loops of the Mind model can be implemented inside a virtual environment simulation (that needs to be defined), or inside our physical world using biology, or inside our physical world using robotics.
+2. Define the minimum application of the Loops of the Mind model.
 
-  * Given an implementation of the Loops of the Mind model and environment to host it, what set of characteristics shall have this environment, and how to minimise the size of this set?
+  1. Define the minimum set of characteristics that any implementation of the Loops of the Minds.
 
-3. Implementation of the Primary System.
+  2. Given any implementation of the Loops of the Mind model and any environment to host it, what set of characteristics shall have this environment, and how to minimise the size of this set?
 
-  * (Optional) Implementation of an environment to host the implementation of the Primary System.
+    * How easy it is to create a virtual environment with this minimum set of characteristics? Skip tasks marked as optional if it is too complex (more than 2 work of month).
 
-  * What is the minimum set of characteristics of the implementation of the Primary System? If many, choose the easiest to implement.
+    * The minimal environment for the Primary System, the Intelligent System, and the Reflection System may be different. If it is the case, only implement the set characteristics specifically needed and improve when needed.
 
-  * Implementation of the Primary System according to the constraint defined.
+3. Implement the Primary System.
+
+  1. (Optional) Implement a virtual environment to host an implementation of the Primary System.
+
+  2. (Optional) Implement a virtual Primary System that evolves in the previously created virtual environment.
+
+  3. Construct or buy a robot that has a minimum set of characteristics as defined before.
+
+  4. Program the robot to implement the Primary System
 
 4. Implementation of the Intelligent System.
 
-  * What is the minimum set of characteristics of the implementation of the Intelligent System? If many, choose the easiest to implement.
+  1. (Optional) Improve of the virtual environment to host an implementation of the Intelligent System.
 
-  * Implementation of the Intelligent System according to the constraint defined.
+  2. (Optional) Implement a virtual Intelligent System that evolves in the previously created virtual environment.
+
+  3. Construct or buy a robot that has a minimal set of characteristics as defined before. Don't construct or buy a new robot if the minimal set of characteristic didn't change.
+
+  4. Program the robot to implement the Intelligent System
 
 5. Implementation of the Reflection System.
 
-  * What is the minimum set of characteristics of the implementation of the Reflection System? If many, choose the easiest to implement.
+  1. (Optional) Improve of the virtual environment to host an implementation of the Reflection System.
 
-  * Implementation of the Reflection System according to the constraint defined.
+  2. (Optional) Implement a virtual Reflection System that evolves in the previously created virtual environment.
+
+  3. Construct or buy a robot that has a minimum set of characteristics as defined before. Don't construct or buy a new robot if the minimal set of characteristic didn't change.
+
+  4. Program the robot to implement the Reflection System
 
 ## Measure of Success
 
 **TODO: Define measures of success**
+
+* The Research Plan is composed of 17 consecutive sub-tasks. The completion of these sub-tasks will define progress.
+
+* The Primary System will succeed if:
+
+  1. It convinces a panel of people that it is a living thing. These people will use as a comparaison simple microorganisms like bacteria and fungi.
+
+* The Intelligent System will succeed if:
+
+  1. It convinces a panel of people that it is an intelligent living being. These people will use as a comparaison living organism like cats and dogs.
+
+* The Reflection System will succeed if:
+
+  1. It convinces a panel of people that it is conscious of itself. These people will use as a comparaison an human being.
+
+*The robot won't communicate if the set of characteristics don't include communication. This is not a sign a failure and shall be taken into account by the panel of people.*
+
+*The living example given above can changed according to the research.*
+
+**TODO: What else that a panel of people?**
 
 ## Personal Background
 
