@@ -66,8 +66,10 @@
 
 ## Source of Inspiration
 
-**TODO: CHEL[s] course on Emotions and The University of Tokyo course on Neurology and the Brain**
+**TODO: CHEL[s] course on Emotions**
 
-* [The Society of Mind by Prof. Marvin Minsky in Fall 2011, MIT Course 6.868J](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/index.htm)
+* [The Society of Mind by Prof. Marvin Minsky in Fall 2011, MIT Course 6.868J.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/index.htm)
 
-* [Artificial Intelligence by Prof. Patrick Henry Winston in Fall 2010, MIT Course 6.034](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)
+* [Artificial Intelligence by Prof. Patrick Henry Winston in Fall 2010, MIT Course 6.034.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)
+
+* Introduction to Neurointelligence, College lecture series at The University of Tokyo in Spring 2020.

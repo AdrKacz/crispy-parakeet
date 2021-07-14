@@ -1,3 +1,5 @@
+> I use the [DOT](https://graphviz.org/about/) language to create the diagrams.
+
 # crispy-parakeet, The Loops of the Mind
 
 The following diagram represents a general system for the living being. I will describe it more deeply in the following sections.

@@ -1,0 +1,23 @@
+/*
+dot -Tsvg diagrams/server-to-gameengine.dot > diagrams-output/server-to-gameengine.svg
+*/
+
+digraph {
+  label=<<u>Oversimplfied server to game engine architecture</u>>
+  rankdir=LR;
+  subgraph server {
+    "server" [ shape=square ];
+
+    struct_endpoints [
+      shape=record
+      label="<port1>endpoint 1|<port2>...|<port3>endpoint n";
+    ];
+
+    struct_endpoints:port1 -> server [dir=both];
+    struct_endpoints:port2 -> server [dir=both];
+    struct_endpoints:port3 -> server [dir=both];
+  }
+  "game engine" -> struct_endpoints:port1 [dir=both];
+  "game engine" -> struct_endpoints:port2 [dir=both];
+  "game engine" -> struct_endpoints:port3 [dir=both];
+}
