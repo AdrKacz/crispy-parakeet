@@ -41,7 +41,7 @@ I will briefly examine the latest task example: speech. The best example is GPT-
 
 First, you assume that the algorithm is indeed intelligent. That makes sense, the algorithm is able to process complex question, to extract information, to calculate, to guess result and even to make subtle jokes.
 
-Second, you assume that the algorithm performs extremely well in text prediction. Indeed, GPT-3 was trained on hundreds of billion of text exemples, thus most of the text you will provide for prediction will trigger a pattern already seen during training.
+Second, you assume that the algorithm performs extremely well in text prediction. Indeed, GPT-3 was trained on hundreds of billion of text examples, thus most of the text you will provide for prediction will trigger a pattern already seen during training.
 
 This raise an important dilemma, are you intelligent if you are performant enough ? Or, can you mimic intelligence with good performance ? The answer to the first question is quite hard and I don't have a definitive answer, even though I think the answer is no. The answer to the second question is definitely yes. GPT-3 is good example because it performs well at the complicated task. However, you'll find really performant algorithms that performs simple task in video game that mimic intelligent choices. Shoal of fish for example, the intelligence is not comparable to human intelligence but the simulation performs well enough to mimic fish intelligence.
 
@@ -50,3 +50,23 @@ This raise an important dilemma, are you intelligent if you are performant enoug
 # The necessity of reproduction
 
 **TODO: How reproduction help to define life?**
+
+# Quantum physics and consciousness
+
+**TODO: Read the paper [Consciousness and the Collapse of the Wave Function](https://philpapers.org/archive/CHACAT-24.pdf)**
+
+*NOTE: I am not inclined toward these concepts, I think they will only lead us to more complex representation. Moreover, I don't think Quantum Physics is the easiest way to describe how the world works (this is for another day).*
+
+# Why do I want to conceptualise and create consciousness?
+
+I want to conceptualise consciousness because I wish to understand who I am and how I work better.
+
+Indeed, I often **[find sources]** hear that consciousness is separated from your body like something you cannot grasp. However, I think this idea is wrong and just try to hide the fact that death ends your conscious experience. Indeed, this idea of separation between the mind and the body claims that your mind will leave your body when you will die. That gives you an eternal life to experiment after you life and create hope. Although there are stories where the mind is trapped in the body, those are only sentence for bad behaviour in life before death **[find sources]**.
+
+On the other hand, if you consider that your mind and your body are one thing, this implies that when you die your mind dies too. Since you cannot resurrect with the current technologies, that is a one way door phenomenon *[one way door things cannot be reversed while two way doors can]*. It is much easier to conceptualise the mind as a consequence of the body rather than as a different object. Indeed, if you consider it has a different object, you have to consider from where it comes? what is its life cycle? and, from where does it power itself to sustain for eternity? These questions, especially the last one are, are difficult to answer.
+
+If you consider your mind to be a part of your body and a sensation of your body, it means that you will probably be able to explain of your mind works, as any other part of your body. However, if you are able to understand of your mind work, you are now able to predict your own conscious before you are aware of it. This prediction may not be a long term prediction, or may not exist at all. Indeed, a model doesn't have to give a precise result and can be based on uncertainty or chaos theory. Nevertheless, the fact that your mind is now just another piece of your body remove all its importance.
+
+You may conclude that you don't exist and that an human body is just the result of million of cells, bacteria and others that interact with each others. These interactions create connection between these living things and your existence can be describe as an ant colony. The ant colony is none of the ant, and it exists only thanks to the cohesion of its parts.
+
+**TODO: Go deeper into how this image can help to conceptualise consciousness and why it is not enough**

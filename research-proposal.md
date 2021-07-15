@@ -78,15 +78,15 @@
 
 * The Primary System will succeed if:
 
-  1. It convinces a panel of people that it is a living thing. These people will use as a comparaison simple microorganisms like bacteria and fungi.
+  1. It convinces a panel of people that it is a living thing. These people will use as a comparison simple microorganisms like bacteria and fungi.
 
 * The Intelligent System will succeed if:
 
-  1. It convinces a panel of people that it is an intelligent living being. These people will use as a comparaison living organism like cats and dogs.
+  1. It convinces a panel of people that it is an intelligent living being. These people will use as a comparison living organism like cats and dogs.
 
 * The Reflection System will succeed if:
 
-  1. It convinces a panel of people that it is conscious of itself. These people will use as a comparaison an human being.
+  1. It convinces a panel of people that it is conscious of itself. These people will use as a comparison an human being.
 
 *The robot won't communicate if the set of characteristics don't include communication. This is not a sign a failure and shall be taken into account by the panel of people.*
 
