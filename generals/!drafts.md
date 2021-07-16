@@ -23,6 +23,18 @@ Second, it is necessary to state that something is alive when it is independent 
 
 **TODO: Are you alive if others -people, animals- think you are alive?**.
 
+# What is consciousness?
+
+I often **[find sources]** hear that your consciousness and your body are separated: consciousness is something unmaterial that you cannot grasp. However, I think this idea is wrong and try to hide the fact that death ends your conscious experience. Indeed, this idea of separation between the mind and the body claims that your mind will leave your body when you die. That gives you an eternal life to experiment after your life and create hope. Although there are stories where the body traps the mind, those are the only sentence for bad behaviour in life before death **[find sources]**.
+
+On the other hand, if you consider that your mind and your body are one thing. This unicity implies that when you die, your mind dies too. Since you cannot resurrect with the current technologies, it is a one-way door phenomenon *[you cannot reverse one-way door things while you can reverse two-way doors]*. It is easier to conceptualise the mind as a consequence of the body than an independent object. Indeed, if you consider your mind-independent, you have to study where it originates? What is its life cycle? Where does it power itself to sustain for eternity come? These questions, especially the last one are, are difficult to answer.
+
+You will probably describe how your mind works if you consider your mind to be like any other part of your body. However, if you can understand how your mind works, you can now predict your consciousness, and thus before you are aware of it. A model doesn't have to give a precise result and can be composed of uncertainties. Nevertheless, the fact that your mind is now just another piece of your body remove all its importance.
+
+You may conclude that you don't exist. And that a human body is just the result of millions of cells, bacteria and others that interact with each other. These interactions create a connection between these living things, and you may describe your consciousness like you describe an ant colony. The ant colony is none of the ants, and it exists only thanks to the cohesion of its parts. However, each ant works for the ant colony as if it was only one entity. You can make a similar parallel with a shoal of fish.
+
+**TODO: Go deeper into how an ant colony can help to conceptualise consciousness and why it is not enough**
+
 # Between life and performance
 
 Most of the time, you create an algorithm to solve an issue. Thus, your algorithm is use in this precise context and paused or shut down when the issue is solved. The issue can be simple as moving as object along a line or complex as weather forecasting.
@@ -59,14 +71,11 @@ This raise an important dilemma, are you intelligent if you are performant enoug
 
 # Why do I want to conceptualise and create consciousness?
 
-I want to conceptualise consciousness because I wish to understand who I am and how I work better.
+I want to conceptualise consciousness because I wish to understand who I am and how I work better. However, I know that this research won't help. Indeed, you cannot guess if you can apply the concept I am working on to the brain and humanity. No theory is a source of truth theories are tools to find valid enough results. You can find the same good enough result with a different method, as long as you have this other method. Thus, the game is not to explain how our reality works but to find the most beautiful theory that roughly agrees with our reality.
 
-Indeed, I often **[find sources]** hear that consciousness is separated from your body like something you cannot grasp. However, I think this idea is wrong and just try to hide the fact that death ends your conscious experience. Indeed, this idea of separation between the mind and the body claims that your mind will leave your body when you will die. That gives you an eternal life to experiment after you life and create hope. Although there are stories where the mind is trapped in the body, those are only sentence for bad behaviour in life before death **[find sources]**.
+I grew up surrounded by computers, and I always tried to develop and imagine new algorithms and programs. Thanks to that, I have developed a sharp logical mind a strong understanding of mathematics and physics. However, I consider myself more like an artist than an engineer. Indeed, I learn all that I know while creating and conceptualising beautiful solutions to already solved problems. What triggers me isn't to solve the problem but to solve it beautifully. A solution that brings the Aha moment to those who go through it.
+Across all the ways of doing something beautiful, simplicity and minimality inspire me the most. The more a solution is evident and doesn't imply complex rules and calculations, the more I will like it.
 
-On the other hand, if you consider that your mind and your body are one thing, this implies that when you die your mind dies too. Since you cannot resurrect with the current technologies, that is a one way door phenomenon *[one way door things cannot be reversed while two way doors can]*. It is much easier to conceptualise the mind as a consequence of the body rather than as a different object. Indeed, if you consider it has a different object, you have to consider from where it comes? what is its life cycle? and, from where does it power itself to sustain for eternity? These questions, especially the last one are, are difficult to answer.
+So, the problem of consciousness may be a problem that I will never solve. However, it is a beautiful problem that attracts me for years. I want to dive deep into it just for the sake of its grace. I look for the simplest way to theorise consciousness.
 
-If you consider your mind to be a part of your body and a sensation of your body, it means that you will probably be able to explain of your mind works, as any other part of your body. However, if you are able to understand of your mind work, you are now able to predict your own conscious before you are aware of it. This prediction may not be a long term prediction, or may not exist at all. Indeed, a model doesn't have to give a precise result and can be based on uncertainty or chaos theory. Nevertheless, the fact that your mind is now just another piece of your body remove all its importance.
-
-You may conclude that you don't exist and that an human body is just the result of million of cells, bacteria and others that interact with each others. These interactions create connection between these living things and your existence can be describe as an ant colony. The ant colony is none of the ant, and it exists only thanks to the cohesion of its parts.
-
-**TODO: Go deeper into how this image can help to conceptualise consciousness and why it is not enough**
+The problem of consciousness is fascinating because it is a simple problem that brings complexity along the way. Every human being experiences consciousness, but no one agrees on a clear definition and concept. You unintentionally and naturally feel what it means to be conscious, and the second you start to put it down, all becomes blurry. The problem is simple to grasp and difficult to solve.

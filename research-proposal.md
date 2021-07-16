@@ -70,6 +70,12 @@
 
   4. Program the robot to implement the Reflection System
 
+## A note on reproduction
+
+All the living beings -and thus the conscious being- on earth can reproduce. This ability may be a key to life, and I have to consider it during the research. I will have to create a robot able to reproduce if I find it necessary. The reproduction doesn't have to be complex or to gather multiple robots.
+
+**TODO: Why there is a high chance that I will have to deal with reproduction?**
+
 ## Measure of Success
 
 **TODO: Define measures of success**
