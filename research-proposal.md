@@ -70,15 +70,7 @@
 
   4. Program the robot to implement the Reflection System
 
-## A note on reproduction
-
-All the living beings -and thus the conscious being- on earth can reproduce. This ability may be a key to life, and I have to consider it during the research. I will have to create a robot able to reproduce if I find it necessary. The reproduction doesn't have to be complex or to gather multiple robots.
-
-**TODO: Why there is a high chance that I will have to deal with reproduction?**
-
 ## Measure of Success
-
-**TODO: Define measures of success**
 
 * The Research Plan is composed of 17 consecutive sub-tasks. The completion of these sub-tasks will define progress.
 
@@ -98,7 +90,7 @@ All the living beings -and thus the conscious being- on earth can reproduce. Thi
 
 *The living example given above can changed according to the research.*
 
-**TODO: What else that a panel of people?**
+**TODO: What else that a panel of people? Measuring if the algorithm gives correct result or converges won't help. What is important is to examine if the algorithm is one of the correct ones.**
 
 ## Personal Background
 
@@ -108,13 +100,14 @@ All the living beings -and thus the conscious being- on earth can reproduce. Thi
 * Machine Learning
 * Robotics
 * Others : Biology, Ecosystem, Science of Emotions, Sustainable Materials, Automation
+* Others not directly related: Classical Physics, Quantum Physics, Chemistry, Calculus, Probability
 
 ## Source of Inspiration
-
-**TODO: CHEL[s] course on Emotions**
 
 * [The Society of Mind by Prof. Marvin Minsky in Fall 2011, MIT Course 6.868J.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/index.htm)
 
 * [Artificial Intelligence by Prof. Patrick Henry Winston in Fall 2010, MIT Course 6.034.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)
 
 * Introduction to Neurointelligence, College lecture series at The University of Tokyo in Spring 2020.
+
+* "Les émotions en activités", CHEL[s] lecture series at the Institute of Polical Studies of Lyon in fall 2019.

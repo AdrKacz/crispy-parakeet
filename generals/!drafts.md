@@ -79,3 +79,17 @@ Across all the ways of doing something beautiful, simplicity and minimality insp
 So, the problem of consciousness may be a problem that I will never solve. However, it is a beautiful problem that attracts me for years. I want to dive deep into it just for the sake of its grace. I look for the simplest way to theorise consciousness.
 
 The problem of consciousness is fascinating because it is a simple problem that brings complexity along the way. Every human being experiences consciousness, but no one agrees on a clear definition and concept. You unintentionally and naturally feel what it means to be conscious, and the second you start to put it down, all becomes blurry. The problem is simple to grasp and difficult to solve.
+
+# Pain and Pleasure, a result of regeneration
+
+What makes you feel pain or pleasure? You have sensors all around your body that emit signals. Your brain -or whatever area- processes these signals, and depending on their intensity and their original location, you feel more or less pain or more or less pleasure. However, that doesn't explain anything. Indeed you process multiple different signals, coming from your eye to see or from your mouth and nose to taste. Thus, what makes you feel? After all, it will always be a signal.
+
+All living beings die, either from ageing, predation, injury or lack of energy. So life has to come with a way to avoid these sources of death. Thus, when you receive a signal associated more or less with death, you will feel more or less pain. How do you learn what is related to death and what is not? Indeed, if you have to die to experience your wrong decision, you won't learn from your experience. However, your body can regenerate, and this regeneration takes more or less time. The more time regeneration takes, the more time you will be disabled, and so the higher your chance is to die (from predation or for not being able to sustain your energy level, for example). Regeneration gives you the ability to learn from your mistake and to avoid dangerous feelings. The pain can come from physical interactions -you break your bone- or from an internal state -you are thirsty-, it reduces abilities in either case. Thus, you learn about the impact of events on your body and the time it takes to come back to a normal state. The second factor is important: when you have a rash, it takes a couple of hours to heal, so the pain isn't powerful, but when you break your bone, it takes a month to heal, the pain is more intense -be cautious here, your body may not have sensors everywhere, and may not alert for all dangerous situations-.
+
+I cannot tell if this learning mechanism occurs during the lifetime, across multiple generations, or both. Indeed, there is a high probability that the answer differs from species to species. Moreover, it is not crucial if I don't have the answer. What is essential is to identify the learning mechanism and what triggers it. How learning occurs is mainly dependent on what constitutes the living being.
+
+## A note on reproduction
+
+All the living beings -and thus the conscious being- on earth can reproduce. This ability may be a key to life, and I have to consider it during the research. I will have to create a robot able to reproduce if I find it necessary. The reproduction doesn't have to be complex or to gather multiple robots.
+
+**TODO: Why reproduction is important and why it can be bypass**
