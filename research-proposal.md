@@ -2,24 +2,14 @@
 
 ## Ideas of titles
 
-*objective, definition of conscious algorithm, simulation/physics, why, application, where/measure*
+*What is my objective, if any?*
+*How to define conscious algorithm?*
+*Which field can benefit from an application of my research?*
+*How do I measure how much I succeed in my research?*
 
 1. Implementation of a conscious algorithm using the three Loops of the Mind.
 
 2. Construction of a living mechanism based on the primary Loop of the Mind and its application to implement a conscious algorithm using the three Loops of the Mind.
-
-
-## Old ideas of titles
-
-* Understanding and Creating Life.
-
-* Understanding life through the primary, the intelligent and the reflection loop of the Mind and Creating three living mechanisms with the primary, the primary and the intelligent, and the primary, the intelligent, and the reflection Loops of the Mind.
-
-* A conscious algorithm using an interconnected cycle of learning.
-
-* Definition of the three Loops of the Mind, construction of a living mechanism based on the primary Loop of the Mind and construction of a living mechanism based on the primary and intelligent Loops of the Mind, and implementation of a conscious algorithm based on the three Loops of the Minds using the learning from the two first construction.
-
-* Definition of the three Loops of the Mind, definition of their minimal implementation and application of their minimal implementation: construction of a simple living mechanism based on the first Loop of the Mind, construction of an intelligent living mechanism based on the two first Loops of the Mind, construction of a conscious living mechanism based on the three Loops of the Mind.
 
 ## Research Plan
 1. Define the three Loops of the Mind and their implication.
