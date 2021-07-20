@@ -12,9 +12,11 @@ If at any point you feel you won't be the best person to help me in my research,
 
 I have studied mathematics (statistics, probability, calculus), physics (quantum physics, fluid physics, classical mechanics, optics) and chemistry (organic chemistry, inorganic chemistry, analytical chemistry, physical chemistry) as part of my undergraduate and graduate journey. I have attended more in-depth classes on robotics, machine learning, computer science and neuroscience.
 
+*[DEFINE artistic aspect of computer science]*
+
 Aside from my studies, I fell in love with the artistic aspect of computer science during my childhood. I love to create algorithms and interact with them. As part of my passion, I had personal projects in game development or reinforcement learning and attended additional classes at MITOpenCourseware on Artificial Intelligence.
 
-I appreciate elegant problems and solutions more than practical ones. For this reason, consciousness and its connection with life especially attract me. This problem is beautiful because you feel the answer, but you don't know it.
+Naturally, I considered the conception of a conscious algorithm: an algorithm that expresses spontaneous interactivity without any predefined rules. How to create such an algorithm is an elegant problem. Indeed, you will feel what is to be sentient, but you will struggle to theorise it.
 
 During the past years, I spent my free time documenting myself about Artificial Intelligence and Consciousness. Moreover, I came up with a model for a conscious living being, which I would love to examine in more detail. Indeed, I don't have all the knowledge I need to understand all the parts of my model, and I seek guidance along the path.
 
