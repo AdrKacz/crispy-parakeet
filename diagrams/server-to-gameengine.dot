@@ -1,5 +1,5 @@
 /*
-dot -Tsvg diagrams/server-to-gameengine.dot > diagrams-output/server-to-gameengine.svg
+dot -Tsvg diagrams/server-to-gameengine.dot > diagrams/outputs/server-to-gameengine.svg
 */
 
 digraph {

@@ -18,4 +18,4 @@ I have two options to implement the Loops of the Mind.
 
 On the one hand, the first option is easier to implement, keep the code in the same place, and it is probably quicker at runtime. On the other hand, the second option offers the distinction with the environment and the living abstraction immediately with its architecture. Thus, it keeps the code more structure and easier to scale. Moreover, it avoids any interference between the two programs -the environment and the living abstraction-.
 
-![server to game engine](../diagrams-output/server-to-gameengine.svg)
+![server to game engine](../diagrams/outputs/server-to-gameengine.svg)

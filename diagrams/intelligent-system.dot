@@ -1,5 +1,5 @@
 /*
-dot -Tsvg diagrams/intelligent-system.dot > diagrams-output/intelligent-system.svg
+dot -Tsvg diagrams/intelligent-system.dot > diagrams/outputs/intelligent-system.svg
 */
 digraph {
   label=""

@@ -1,5 +1,5 @@
 /*
-dot -Tsvg diagrams/environment-system.dot > diagrams-output/environment-system.svg
+dot -Tsvg diagrams/environment-system.dot > diagrams/outputs/environment-system.svg
 */
 digraph {
   label="environment system"

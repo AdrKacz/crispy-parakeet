@@ -107,3 +107,9 @@ Second, it is necessary to state that something is alive when it is independent 
 **TODO: More detailed discussion about what is life**.
 
 **TODO: Are you alive if others -people, animals- think you are alive?**.
+
+*[?? Conscious algorithm / Living and conscious Artificial Intelligence]*
+
+*[On the fly learning: static learning state / dynamic reasoning]*
+
+*[DEFINE artistic aspect of computer science]*

@@ -1,5 +1,5 @@
 /*
-dot -Tsvg diagrams/primary-system.dot > diagrams-output/primary-system.svg
+dot -Tsvg diagrams/primary-system.dot > diagrams/outputs/primary-system.svg
 */
 digraph {
   label=""

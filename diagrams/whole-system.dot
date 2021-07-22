@@ -1,5 +1,5 @@
 /*
-dot -Tsvg diagrams/whole-system.dot > diagrams-output/whole-system.svg
+dot -Tsvg diagrams/whole-system.dot > diagrams/outputs/whole-system.svg
 */
 digraph {
   label="whole system"

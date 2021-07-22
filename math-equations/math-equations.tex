@@ -1,0 +1,36 @@
+% Definitions 1, 0, Hi, Hd
+
+\underset{n \times m}{0_{(n, m)}} =
+\begin{pmatrix}
+  0 & \cdots & 0 \\
+  \vdots & \ddots & \vdots \\
+  0 & \cdots & 0\\
+\end{pmatrix}
+
+\underset{n \times n}{1_{(n)}} =
+\begin{pmatrix}
+  1 & 0 & \cdots & 0 & 0 \\
+  0 & 1 & \cdots & 0 & 0 \\
+  \vdots & \vdots & \ddots & \vdots & \vdots \\
+  0 & 0 & \cdots & 1 & 0 \\
+  0 & 0 & \cdots & 0 & 1 \\
+\end{pmatrix}
+
+\underset{(n + p) \times p}{H_i} =
+\begin{pmatrix}
+0_{(n,p)} \\
+1_{(p)}
+\end{pmatrix}
+
+\underset{(n + p) \times n}{H_d} =
+\begin{pmatrix}
+1_{(n)} \\
+0_{(p, n)}
+\end{pmatrix}
+
+% Primary system
+
+\begin{cases}
+d_{n+1} = DM(H_iF_i(i) + H_dd_n)  \\
+o_n = DS(d_n)
+\end{cases}

@@ -12,9 +12,7 @@ If at any point you feel you won't be the best person to help me in my research,
 
 I have studied mathematics (statistics, probability, calculus), physics (quantum physics, fluid physics, classical mechanics, optics) and chemistry (organic chemistry, inorganic chemistry, analytical chemistry, physical chemistry) as part of my undergraduate and graduate journey. I have attended more in-depth classes on robotics, machine learning, computer science and neuroscience.
 
-*[DEFINE artistic aspect of computer science]*
-
-Aside from my studies, I fell in love with the artistic aspect of computer science during my childhood. I love to create algorithms and interact with them. As part of my passion, I had personal projects in game development or reinforcement learning and attended additional classes at MITOpenCourseware on Artificial Intelligence.
+I fell in love with computer science during my childhood. I love to create algorithms and interact with them. As part of my passion, I had personal projects in game development or reinforcement learning and attended additional classes at MITOpenCourseware on Artificial Intelligence.
 
 Naturally, I considered the conception of a conscious algorithm: an algorithm that expresses spontaneous interactivity without any predefined rules. How to create such an algorithm is an elegant problem. Indeed, you will feel what is to be sentient, but you will struggle to theorise it.
 

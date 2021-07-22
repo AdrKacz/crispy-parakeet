@@ -4,7 +4,7 @@
 
 The following diagram represents a general system for the living being. I will describe it more deeply in the following sections.
 
-![whole system](diagrams-output/whole-system.svg)
+![whole system](diagrams/outputs/whole-system.svg)
 
 The structure is composed of 3 systems that add up together.
 - The **Primary system** is the most simple one. It serves elementary purposes.
@@ -25,7 +25,7 @@ The structure is composed of 3 systems that add up together.
 
 You can study the **Primary system** on its own. Indeed, an **Intelligent system** and a **Reflection system** are not necessary. Both are built on this first system to add values.
 
-![primary system](diagrams-output/primary-system.svg)
+![primary system](diagrams/outputs/primary-system.svg)
 
 ### Outside interfaces
 
@@ -74,7 +74,7 @@ I ignore the **Environment system** for now. Its mechanism is complex, and under
 
 However, you shall keep in mind that without the **Environment system**, nothing exists.
 
-![environment system](diagrams-output/environment-system.svg)
+![environment system](diagrams/outputs/environment-system.svg)
 
 
 ## Intelligent system
@@ -85,7 +85,7 @@ The **Intelligent system** and the job of the **Direct memory** shall not be con
 
 The **Intelligent system** brings the loop of intelligence.
 
-![intelligent system](diagrams-output/intelligent-system.svg)
+![intelligent system](diagrams/outputs/intelligent-system.svg)
 
 ### Memory system
 
@@ -115,4 +115,4 @@ However, the **Reflection system** only adds one link and no component. It loops
 
 This loop mimics the loop of the **Environment system**. However, it bypasses the action of the **System-i's**.
 
-![reflection system](diagrams-output/reflection-system.svg)
+![reflection system](diagrams/outputs/reflection-system.svg)
