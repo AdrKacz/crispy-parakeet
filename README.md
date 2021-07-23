@@ -1,4 +1,4 @@
-> I use the [DOT](https://graphviz.org/about/) language to create the diagrams.
+> I use the [DOT](https://graphviz.org/about/) language to create the diagrams and LaTeXiT for the equations (https://www.chachatelier.fr/latexit/)
 
 # crispy-parakeet, The Loops of the Mind
 
