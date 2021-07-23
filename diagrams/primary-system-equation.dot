@@ -1,0 +1,42 @@
+/*
+dot -Tsvg diagrams/primary-system-equation.dot > diagrams/outputs/primary-system-equation.svg
+*/
+digraph {
+  label=""
+  rankdir=LR;
+  node [shape="rarrow"];
+  edge [style="solid"];
+
+  // primary system
+  subgraph cluster_inner {
+    label="primary system equation"
+    "DM";
+    "DS";
+    systemi [
+      shape="record"
+      style="rounded"
+      label="<n>system n|<i>[...]|<2>system 2|<1>system 1"
+    ]
+  }
+
+  // primary system equation
+  subgraph {
+    "DM" -> "DS" [label="d(n, t)"];
+    "DM":e -> "DM":w [label="d(n, t)"];
+    "DS" -> systemi:n [label="o(t){n}"];
+    "DS" -> systemi:i [label="o(t){i}"];
+    "DS" -> systemi:2 [label="o(t){2}"];
+    "DS" -> systemi:1 [label="o(t){1}"];
+  }
+
+  // outside
+  subgraph {
+    edge [style="dashed"]
+    node [shape=""]
+    "outside interfaces" -> "DM" [label="i(t)"];
+    systemi:n -> "outside";
+    systemi:i -> "outside";
+    systemi:2 -> "outside";
+    systemi:1 -> "outside";
+  }
+}

@@ -1,3 +1,5 @@
+% Use LaTeXiT and brew install pdf2svg
+
 % Definitions 1, 0, Hi, Hd
 
 \underset{n \times m}{0_{(n, m)}} =
@@ -16,21 +18,34 @@
   0 & 0 & \cdots & 0 & 1 \\
 \end{pmatrix}
 
-\underset{(n + p) \times p}{H_i} =
+\underset{(n + m) \times n}{Up_{(m, n)}} =
 \begin{pmatrix}
-0_{(n,p)} \\
-1_{(p)}
+1_{(n)} \\
+0_{(m, n)}
 \end{pmatrix}
 
-\underset{(n + p) \times n}{H_d} =
+\underset{(n + m) \times n}{Down_{(m, n)}} =
+\begin{pmatrix}
+0_{(m,n)} \\
+1_{(n)}
+\end{pmatrix}
+
+% Primary system
+
+\underset{(n + p) \times n}{H_d} = Up_{(p, n)} =
 \begin{pmatrix}
 1_{(n)} \\
 0_{(p, n)}
 \end{pmatrix}
 
-% Primary system
+\underset{(n + p) \times p}{H_i} = Down_{(n, p)} =
+\begin{pmatrix}
+0_{(n,p)} \\
+1_{(p)}
+\end{pmatrix}
 
 \begin{cases}
-d_{n+1} = DM(H_iF_i(i) + H_dd_n)  \\
-o_n = DS(d_n)
+d_{n+1} = DM(H_iF_i(i_t) + H_dd_n)  \\
+o_{n,t} = DS(d_n) \\
+o_{t} = DS(\underset{n\to\infty}{\lim}d_n)
 \end{cases}

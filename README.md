@@ -21,6 +21,8 @@ The structure is composed of 3 systems that add up together.
 
 *In further work, I will try to put into application these concepts. However, it is crucial to understand that it doesn't have to do with the application now.*
 
+# The three Loops of the Mind
+
 ## Primary system
 
 You can study the **Primary system** on its own. Indeed, an **Intelligent system** and a **Reflection system** are not necessary. Both are built on this first system to add values.
@@ -116,3 +118,33 @@ However, the **Reflection system** only adds one link and no component. It loops
 This loop mimics the loop of the **Environment system**. However, it bypasses the action of the **System-i's**.
 
 ![reflection system](diagrams/outputs/reflection-system.svg)
+
+# Mathematics definitions
+
+**TODO: Define and explain**
+
+## General definitions
+
+`n`, `m` are a natural numbers greater than `0`.
+
+`a x b` is the size of the matrix, with `a` the number of rows and `b` the number of columns.
+
+![Matrix 0](math-equations/outputs/0.svg)
+
+![Matrix 1](math-equations/outputs/1.svg)
+
+![Matrix Up](math-equations/outputs/Up.svg)
+
+![Matrix Down](math-equations/outputs/Down.svg)
+
+## Primary system
+
+![Primary system equation diagram](diagrams/outputs/primary-system-equation.svg)
+
+![Matrix Hd](math-equations/outputs/Hd.svg)
+
+![Matrix Hi](math-equations/outputs/Hi.svg)
+
+---
+
+![Primary system equation](math-equations/outputs/primary-system.svg)
