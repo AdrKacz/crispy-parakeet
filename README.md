@@ -176,7 +176,7 @@ The Outside interfaces (sensors) and the System-i's (effectors) are not part of 
 
 ### Problems
 
-The objective is to find the function `DM` and `DS`.
+The objective is to find the functions `DM` and `DS`.
 
 Two questions remain:
 
