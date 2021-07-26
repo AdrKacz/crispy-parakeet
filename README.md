@@ -174,7 +174,7 @@ The Outside interfaces (sensors) and the System-i's (effectors) are not part of 
 
 ![Primary system equation](math-equations/outputs/primary-system.svg)
 
-### Problems
+### Problem
 
 The objective is to find the functions `DM` and `DS`.
 
