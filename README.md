@@ -121,17 +121,24 @@ This loop mimics the loop of the **Environment system**. However, it bypasses th
 
 # Mathematics definitions
 
-**TODO: Define and explain**
+In the following section, I will describe the three Loops of the Mind with mathematical notation. To simplify the description of the problem, I will work with matrixes.
 
 ## General definitions
 
-`n`, `m` are a natural numbers greater than `0`.
+First, here are four helpful matrixes that I will use along the way.
 
-`a x b` is the size of the matrix, with `a` the number of rows and `b` the number of columns.
+`n`, `m` are natural numbers greater than `0`.
+
+The inscription `a x b` under the matrixes are the size of the matrixes, with `a` the number of rows and `b` the number of columns.
+
+The first and the second ones are the matrix null and the matrix identity.
+
 
 ![Matrix 0](math-equations/outputs/0.svg)
 
 ![Matrix 1](math-equations/outputs/1.svg)
+
+The third and the fourth ones are helpful to stack two vectors together.
 
 ![Matrix Up](math-equations/outputs/Up.svg)
 
@@ -139,12 +146,40 @@ This loop mimics the loop of the **Environment system**. However, it bypasses th
 
 ## Primary system
 
+Below is the primary system.
+
+The vector `i(t)` contains the signals produced by each outside interface. It varies over time. There are `p` outside interfaces, `p` greater or equal to `0`. Thus `i` has `p` values.
+
+`DM` is the function that represents the Direct memory. It takes as input a vector of size `n + p` and outputs a vector of size `n`.
+
+`d(n, t)` is the output of the Direct memory. It varies over time and with each passage through the loop.
+
+`DS` is the function that represents the Decision system. It takes as input a vector of size `n` and outputs a vector of size `q`. `q` is the number of System-i.
+
+`o(t)` is the output of the Decision system. It varies over time. Each of its value impact one System-i.
+
+The Outside interfaces (sensors) and the System-i's (effectors) are not part of the definition of the primary system. They are the boundary of the system. How they process information is highly dependant on their functionalities.
+
+### Schema
+
 ![Primary system equation diagram](diagrams/outputs/primary-system-equation.svg)
+
+### Helpers
 
 ![Matrix Hd](math-equations/outputs/Hd.svg)
 
 ![Matrix Hi](math-equations/outputs/Hi.svg)
 
----
+### Equations
 
 ![Primary system equation](math-equations/outputs/primary-system.svg)
+
+### Problems
+
+The objective is to find the function `DM` and `DS`.
+
+Two questions remain:
+
+1. Let `DMi` be an approximation of `DM`. How to measure how good the approximation is? (what is the error function)
+
+2. Is the third equation correct? Should `o` only varies over time (`o(t)` versus `o(n, t)`)?
