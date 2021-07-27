@@ -8,8 +8,6 @@ You will probably describe how your mind works if you consider your mind to be l
 
 You may conclude that you don't exist. And that a human body is just the result of millions of cells, bacteria and others that interact with each other. These interactions create a connection between these living things, and you may describe your consciousness like you describe an ant colony. The ant colony is none of the ants, and it exists only thanks to the cohesion of its parts. However, each ant works for the ant colony as if it was only one entity. You can make a similar parallel with a shoal of fish.
 
-**TODO: The dilemma with duplication**
-
 **TODO: Go deeper into how an ant colony can help to conceptualise consciousness and why it is not enough**
 
 # Between life and performance
@@ -113,3 +111,7 @@ Second, it is necessary to state that something is alive when it is independent 
 *[On the fly learning: static learning state / dynamic reasoning]*
 
 *[DEFINE artistic aspect of computer science]*
+
+# The problem of duplication and its implication
+
+**TODO: Explain why this dilemma implies that consciousness can be conceptualise has an algorithm --> living into multiple body and the illusion of life**
