@@ -129,7 +129,7 @@ First, here are four helpful matrixes that I will use along the way.
 
 `n`, `m` are natural numbers greater than `0`.
 
-The inscription `a x b` under the matrixes are the size of the matrixes, with `a` the number of rows and `b` the number of columns.
+The inscription `n x m` under the matrixes are the size of the matrixes, with `n` the number of rows and `m` the number of columns.
 
 The first and the second ones are the matrix null and the matrix identity.
 
@@ -150,11 +150,11 @@ Below is the primary system.
 
 The vector `i(t)` contains the signals produced by each outside interface. It varies over time. There are `p` outside interfaces, `p` greater or equal to `0`. Thus `i` has `p` values.
 
-`DM` is the function that represents the Direct memory. It takes as input a vector of size `n + p` and outputs a vector of size `n`.
+`DM` is the function that represents the Direct memory. It takes as input a vector of size `a + p` and outputs a vector of size `n`.
 
 `d(n, t)` is the output of the Direct memory. It varies over time and with each passage through the loop.
 
-`DS` is the function that represents the Decision system. It takes as input a vector of size `n` and outputs a vector of size `q`. `q` is the number of System-i.
+`DS` is the function that represents the Decision system. It takes as input a vector of size `a` and outputs a vector of size `q`. `q` is the number of System-i.
 
 `o(t)` is the output of the Decision system. It varies over time. Each of its value impact one System-i.
 

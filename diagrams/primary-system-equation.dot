@@ -15,7 +15,7 @@ digraph {
     systemi [
       shape="record"
       style="rounded"
-      label="<n>system n|<i>[...]|<2>system 2|<1>system 1"
+      label="<1>system 1|<2>system 2|<i>[...]|<n>system n"
     ]
   }
 
