@@ -166,13 +166,13 @@ The Outside interfaces (sensors) and the System-i's (effectors) are not part of 
 
 ### Helpers
 
-![Matrix Hd](math-equations/outputs/Hd.svg)
+![Matrix Hd](math-equations/outputs/primary-system/Hd.svg)
 
-![Matrix Hi](math-equations/outputs/Hi.svg)
+![Matrix Hi](math-equations/outputs/primary-system/Hi.svg)
 
 ### Equations
 
-![Primary system equation](math-equations/outputs/primary-system.svg)
+![Primary system equation](math-equations/outputs/primary-system/primary-system.svg)
 
 ### Problem
 
@@ -183,3 +183,17 @@ Two questions remain:
 1. Let `DMi` be an approximation of `DM`. How to measure how good the approximation is? (what is the error function)
 
 2. Is the third equation correct? Should `o` only varies over time (`o(t)` versus `o(n, t)`)?
+
+## Intelligent system
+
+### Helpers
+
+![Matrix Hi](math-equations/outputs/intelligent-system/Hi.svg)
+
+![Matrix Hd](math-equations/outputs/intelligent-system/Hd.svg)
+
+![Matrix Hg](math-equations/outputs/intelligent-system/Hg.svg)
+
+### Equations
+
+![Intelligent system equation](math-equations/outputs/intelligent-system/intelligent-system.svg)

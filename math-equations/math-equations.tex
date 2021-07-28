@@ -1,6 +1,6 @@
-% Use LaTeXiT and brew install pdf2svg
+% --- --- Use LaTeXiT and brew install pdf2svg, font 24px, color black
 
-% Definitions 1, 0, Hi, Hd
+% --- Definitions 1, 0, Up, Down
 
 \underset{n \times m}{0_{(n, m)}} =
 \begin{pmatrix}
@@ -30,22 +30,60 @@
 1_{(n)}
 \end{pmatrix}
 
-% Primary system
+% --- Primary system
 
-\underset{(n + p) \times n}{H_d} = Up_{(p, n)} =
+% Definitions
+
+\underset{(a + p) \times a}{H_d} = Up_{(p, a)} =
 \begin{pmatrix}
-1_{(n)} \\
-0_{(p, n)}
+1_{(a)} \\
+0_{(p, a)}
 \end{pmatrix}
 
-\underset{(n + p) \times p}{H_i} = Down_{(n, p)} =
+\underset{(a + p) \times p}{H_i} = Down_{(a, p)} =
 \begin{pmatrix}
-0_{(n,p)} \\
+0_{(a,p)} \\
 1_{(p)}
 \end{pmatrix}
 
+% Equations
+
 \begin{cases}
-\underset{n \times 1}{\vec{d_{n+1}}} = DM(H_iF_i(\underset{p \times 1}{\vec{i_t}}) + H_d\vec{d_n})  \\
-\underset{q \times 1}{\vec{o_{n,t}}} = DS(\vec{d_n}) \\
-\vec{o_{t}} = DS(\underset{n\to\infty}{\lim}\vec{d_n})
+\underset{a \times 1}{\vec{d_{n, t}}} = DM(H_iF_i(\underset{p \times 1}{\vec{i_t}}) + H_d\vec{d_{n - 1, t}})  \\
+\underset{q \times 1}{\vec{o_{n,t}}} = DS(\vec{d_{n, t}}) \\
+\underset{q \times 1}{\vec{o_{t}}} = DS(\underset{n\to\infty}{\lim}\vec{d_{n, t}})
+\end{cases}
+
+% --- Intelligent system
+
+% Definitions
+
+\underset{(a + b + p) \times p}{H_i} =
+\begin{pmatrix}
+1_{(p)} \\
+0_{(a,p)} \\
+0_{(b,p)} \\
+\end{pmatrix}
+
+\underset{(a + b + p) \times a}{H_d} =
+\begin{pmatrix}
+0_{(p,a)} \\
+1_{(a)} \\
+0_{(b,a)} \\
+\end{pmatrix}
+
+\underset{(a + b + p) \times b}{H_g} =
+\begin{pmatrix}
+0_{(p,b)} \\
+0_{(a,b)} \\
+1_{(b)} \\
+\end{pmatrix}
+
+% Equations
+
+\begin{cases}
+\underset{a \times 1}{\vec{d_{n, m, t}}} = DM(H_iF_i(\vec{i_t}) + H_d\vec{d_{n - 1, m, t}} + H_g\vec{g_{n, m, t}})  \\
+\underset{b \times 1}{\vec{g_{n, m, t}}} = GM\circ MS\circ DS\circ DM(H_iF_i(\vec{i_t}) + H_d\vec{d_{n, m, t}} + H_g\vec{g_{n, m - 1, t}}) \\
+\underset{q \times 1}{\vec{o_{n, m, t}}} = DS(\vec{d_{n, m, t}}) \\
+\underset{q \times 1}{\vec{o_{t}}} = DS(\underset{(n, m)\to\infty}{\lim}\vec{d_{n, m, t}})
 \end{cases}
