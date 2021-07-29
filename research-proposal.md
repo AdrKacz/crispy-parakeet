@@ -1,11 +1,7 @@
 # Research proposal - The Loops of the Mind
 
 ## Ideas of titles
-
-*What is my objective, if any?*
 *How to define conscious algorithm?*
-*Which field can benefit from an application of my research?*
-*How do I measure how much I succeed in my research?*
 
 1. Implementation of a conscious algorithm using the three Loops of the Mind.
 
@@ -61,6 +57,7 @@
   4. Program the robot to implement the Reflection System
 
 ## Measure of Success
+*How do I measure how much I succeed in my research?*
 
 * The Research Plan is composed of 17 consecutive sub-tasks. The completion of these sub-tasks will define progress.
 
@@ -80,7 +77,15 @@
 
 *The living example given above can changed according to the research.*
 
-**TODO: What else that a panel of people? Measuring if the algorithm gives correct result or converges won't help. What is important is to examine if the algorithm is one of the correct ones.**
+**TODO: What else that a panel of people? Measuring if the algorithm gives correct result or converges won't help. Indeed, there is no known objective function to approximate.**
+
+## Application
+*What is my objective, if any?*
+*Which field can benefit from an application of my research?*
+
+**TODO: Life in the solar system, spacial exploration, live colonisation =/= human colonisation.**
+
+**TODO: New form of communication, invention, discovery.**
 
 ## Personal Background
 

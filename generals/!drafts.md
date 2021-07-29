@@ -114,4 +114,6 @@ Second, it is necessary to state that something is alive when it is independent 
 
 # The problem of duplication and its implication
 
+Let us take an hypothetical situation. Imagine that you replicate all part of your bodies in the exact same way. There is now an exact copy of yourself next to you. Then, a third person kills you. Are you still alive?
+
 **TODO: Explain why this dilemma implies that consciousness can be conceptualise has an algorithm --> living into multiple body and the illusion of life**
